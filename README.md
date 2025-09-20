@@ -5,7 +5,13 @@ I work on a new project every day and keep track of it here.
 
 ## Progress
 
-[]Day1: Expanding cards
+[x]Day1: Expanding cards
+index.html
+style.css
+script.js
+
+
+[x]Day2: Progress steps
 index.html
 style.css
 script.js
